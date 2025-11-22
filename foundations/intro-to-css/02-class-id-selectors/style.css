@@ -13,5 +13,10 @@ p {
     font-size: 24px;
 }
 
-The third element: in addition to the styles for all odd numbered elements, add a font size of 24px
+#green-bg {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
 The fourth element: a light green background, a font size of 24px, and bold
